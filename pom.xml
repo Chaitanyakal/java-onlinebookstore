@@ -122,14 +122,14 @@
 
     <repository>
         <id>nexus</id>
-        <name>bool Relase nexus reposiroty</name>
-        <url> http://13.233.102.90:8081/repository/book-Release/ </url>
+        <name>Book_Relase nexus reposiroty</name>
+        <url> http://65.2.6.106:8081/repository/Book_Release/ </url>
     </repository>
 
     <snapshotRepository>
         <id>nexus</id>
-        <name>book Snapshot Nexus Repository</name>
-        <url> http://13.233.102.90:8081/repository/book-snapshot/ </url>
+        <name>Book_Snapshot Nexus Repository</name>
+        <url> http://65.2.6.106:8081/repository/Book_Snapshot/ </url>
     </snapshotRepository>
 
 </distributionManagement>
