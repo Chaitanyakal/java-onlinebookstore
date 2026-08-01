@@ -6,7 +6,7 @@
 	<artifactId>onlinebookstore</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	 <properties>
-                <sonar.host.url>http://13.203.192.199:9000</sonar.host.url>
+                <sonar.host.url>http://http://13.201.129.6:9000</sonar.host.url>
                 <sonar.login>admin</sonar.login>
                 <sonar.password>sonarqube</sonar.password>
                 <sonar.java.binaries>target/classes</sonar.java.binaries>
